@@ -1,35 +1,38 @@
-# 「ゼロからFlaskがよくわかる本」サンプルコード
+# 「ゼロからFlaskがよくわかる本」Sample Code
 
-「[ゼロからFlaskがよくわかる本](https://www.amazon.co.jp/dp/B07F2X9GRQ)」のサンプルコードです。
+Sample Code of 「[ゼロからFlaskがよくわかる本](https://www.amazon.co.jp/dp/B07F2X9GRQ)」.
 
-## 目次
-1. はじめに
-2. ブログアプリケーションの完成イメージ
-3. pythonのインストール
-4. pipのインストール
-5. 一つのファイルでアプリケーションを動かしてみる
-6. Pipenvのインストール
-7. 起動ファイルを作成する
-8. configファイルをつくる
-9. テンプレートをつくる
-10. Bootstrapを導入
-11. ログインフォームをつくる
-12. ビューの追加
-13. ベースとなるレイアウトテンプレートをつくる
-14. sessionを扱う
-15. flashを追加する
-16. url_forを使う
-17. SQLAlchemy
-18. モデルをつくる
-19. スクリプトを作成する
-20. ブログ投稿機能をつくる
-21. ブログ一覧機能をつくる
-22. ブログ詳細機能をつくる
-23. ブログ編集機能をつくる
-24. ブログ削除機能をつくる
-25. staticファイルを追加する
-26. ログイン認証のデコレータをつくる
-27. Blueprintでアプリケーションを分割する
-28. テストを書く
-29. 最終的なアプリケーション構成
-30. 最後に
+## Index
+1. Introduction
+2. Completed image of the blog application
+3. Installing Python
+4. Installing pip
+5. Try running the application in a single file
+6. Installing Pipenv
+7. Create the startup file
+8. Creating a config file - allows you to work with settings together
+9. Understanding the Flask Framework - MTV Framework
+10. Create Templates - Templates in the MTV Framework
+11. Introducing Bootstrap - Clean Your Design
+12. Create a login form - implement a form
+13. Create a View - View in the MTV framework
+14. Create a base layout template
+15. Working with session - Enables secure login with authentication
+16. Add flash - Display a message to the user
+17. url_for - Automatically Create Links
+18. Work with databases
+19. Model - Model in the MTV framework
+20. Create scripts - make certain actions common
+21. Learn about CRUD
+22. Create Blog Posts - Create in CRUD
+23. Create a blog list feature - Read in CRUD
+24. Creating Blog Details - Read in CRUD
+25. Create Blog Editing - Update in CRUD
+26. Create a blog post delete feature - Delete in CRUD
+27. Add static files - allows you to work with images and stylesheets
+28. Create a decorator for login authentication
+29. Splitting an Application with Blueprint
+30. Writing Unit Tests
+31. Measuring and Reporting Test Coverage
+32. Final application structure
+33. Chapter of Closing
