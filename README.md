@@ -1,6 +1,6 @@
-# 「ゼロからFlaskがよくわかる本」Sample Code
+# "Flask Web Development from Scratch" - Sample Code
 
-Sample Code of 「[ゼロからFlaskがよくわかる本](https://www.amazon.co.jp/dp/B07F2X9GRQ)」.
+Sample Code of 「[Flask Web Development from Scratch](https://www.amazon.com/dp/B07S2ZV3KK)」.
 
 ## Index
 1. Introduction
